@@ -1,0 +1,16 @@
+{"targetDB":{
+  "ip":"172.18.17.33",
+ "port":"6543",
+ "userid":"sa",
+"password":"t3@dl.com",
+"database":"taap",
+},
+"sourceDB":{
+  "ip":"172.18.21.61",
+ "port":"9001",
+ "userid":"sa",
+"password":"t3@dl.com",
+"database":"taap",
+}
+}
+
